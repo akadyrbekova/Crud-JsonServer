@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "title": "Deer",
+      "price": "500435",
+      "image": "https://images.pexels.com/photos/11220223/pexels-photo-11220223.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 1
+    },
+    {
+      "title": "Horse&girl",
+      "price": "5000$",
+      "image": "https://images.pexels.com/photos/13896800/pexels-photo-13896800.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 2
+    },
+    {
+      "title": "Giraffe",
+      "price": "2000$",
+      "image": "https://images.pexels.com/photos/67552/giraffe-tall-mammal-africa-67552.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 3
+    }
+  ]
+}
